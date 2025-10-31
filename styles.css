@@ -1,5 +1,8 @@
+body{
+    background-color: black;
+}
+
 div{
-    margin: 10px;
     display: inline-block;
 }
 .red {
@@ -14,8 +17,8 @@ div{
     height: 100px;
 }
 
-.green {
-    background-color: green;
+.white {
+    background-color: white;
     width: 100px;
     height: 100px;
 }
